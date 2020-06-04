@@ -16,7 +16,7 @@ public class linearSearchAlgorithm{
                 break;
             }
         }
-        if(found==0)
+        if(found==0)//it means data was not found
         {
             System.out.println("Your value is not found");  
         }
